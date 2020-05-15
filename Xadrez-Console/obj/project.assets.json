@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moitinho\\source\\repos\\Xadrez-Console\\Xadrez-Console\\Xadrez-Console.csproj",
-      "projectName": "Xadrez-Console",
-      "projectPath": "C:\\Users\\Moitinho\\source\\repos\\Xadrez-Console\\Xadrez-Console\\Xadrez-Console.csproj",
+      "projectUniqueName": "C:\\Users\\Moitinho\\source\\repos\\Xadrez-Console\\Xadrez-Console\\xadrez_console.csproj",
+      "projectName": "xadrez_console",
+      "projectPath": "C:\\Users\\Moitinho\\source\\repos\\Xadrez-Console\\Xadrez-Console\\xadrez_console.csproj",
       "packagesPath": "C:\\Users\\Moitinho\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Moitinho\\source\\repos\\Xadrez-Console\\Xadrez-Console\\obj\\",
       "projectStyle": "PackageReference",
