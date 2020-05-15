@@ -15,7 +15,6 @@ namespace tabuleiro
 
         public Peca()
         {
-
         }
 
         public Peca(Posicao posicao, Cor cor, Tabuleiro tab)
